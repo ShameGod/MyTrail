@@ -1,2 +1,9 @@
-# MyTrail
-School project to setup an online interface to keep the tracks of runners during a trail 
+# PROJET MYTRAIL
+## AUTEURS : 
+- CHATELET Benjamin
+- DURANDO Ludivine
+- DESPRES Romane
+- MOTTE Cyprien
+- KEJJI Rida
+
+## Comment fonctionne le repo :
